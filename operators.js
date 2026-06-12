@@ -61,3 +61,13 @@ console.log(c++);// 30 c - 31
 console.log(c--);// 31 c - 30
 console.log(--c);// 29 c - 29
 console.log(++c);// 30 c - 30
+
+
+//Ternary Opertor
+console.log("Ternary Opertor")
+
+var result = ( a > b) ? "a is greater" : "b is greater";
+//var variableName = (condition) ? truevalue : falsevalue;
+console.log(result); // o/p - b is greater
+
+
