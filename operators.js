@@ -69,3 +69,5 @@ console.log("Ternary Opertor")
 var result = ( a > b) ? "a is greater" : "b is greater";
 //var variableName = (condition) ? truevalue : falsevalue;
 console.log(result); // o/p - b is greater
+
+
