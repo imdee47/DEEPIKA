@@ -36,3 +36,10 @@ console.log(a>b);
 console.log(a<b);
 console.log(a>=b);
 console.log(a<=b);
+
+//logical operator
+console.log("Logical Operator");
+console.log(a > 0 && b > 0); // o/p - true
+console.log(a > 0 && b < 0); // o/p - false
+console.log(a < 0 || b < 0); // o/p - false
+console.log(!(a > b)); // o/p -false
