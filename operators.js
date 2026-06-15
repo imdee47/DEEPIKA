@@ -71,3 +71,15 @@ var result = ( a > b) ? "a is greater" : "b is greater";
 console.log(result); // o/p - b is greater
 
 
+//Assignment
+console.log("Assignment Operator")
+var c=10
+console.log(c+=30)
+console.log(c-=30)
+console.log(c)
+console.log(c)
+console.log(c)
+
+
+
+
